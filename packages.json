@@ -2,5 +2,9 @@
   {
     "package": "arl",
     "url": "https://github.com/wwbrannon/arl"
+  },
+  {
+    "package": "sqlscore",
+    "url": "https://github.com/wwbrannon/sqlscore"
   }
 ]
